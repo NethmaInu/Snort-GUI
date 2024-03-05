@@ -97,9 +97,9 @@ Figure 3.2: Running SNORT
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/whcyberus/)
-- [Blogs](https://ethicalcyberuspathways.wordpress.com/)
-- [Email](mailto:whcyberus@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/inuri-saputhanthri-14b4a01b3/)
+- [Blogs](https://www.blogger.com/blog/posts/187834683908768262?hl=en&tab=jj)
+- [Email](mailto:nethmainur@gmail.com)
 
 ## Credits
 
